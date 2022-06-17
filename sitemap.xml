@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>Overview.html</loc>
+      <lastmod>2022-06-16T11:43:59Z</lastmod>
+   </url>
+   <url>
+      <loc>downloading_mint.html</loc>
+      <lastmod>2022-06-16T11:43:59Z</lastmod>
+   </url>
+   <url>
+      <loc>downloading_installing_oracle_vm_virtualbox.html</loc>
+      <lastmod>2022-06-16T11:43:59Z</lastmod>
+   </url>
+   <url>
+      <loc>setting_up_linux_mint_on_oracle_vm_virtualbox.html</loc>
+      <lastmod>2022-06-16T11:43:59Z</lastmod>
+   </url>
+   <url>
+      <loc>configuring_your_virtal_machine.html</loc>
+      <lastmod>2022-06-16T11:43:59Z</lastmod>
+   </url>
+   <url>
+      <loc>booting_your_virtual_machine_for_the_first_time.html</loc>
+      <lastmod>2022-06-16T11:43:59Z</lastmod>
+   </url>
+   <url>
+      <loc>installing_linux_mint_on_your_virtual_machine.html</loc>
+      <lastmod>2022-06-16T11:43:59Z</lastmod>
+   </url>
+   <url>
+      <loc>installing_virtualbox_guest_editions.html</loc>
+      <lastmod>2022-06-16T11:43:59Z</lastmod>
+   </url>
+</urlset>
